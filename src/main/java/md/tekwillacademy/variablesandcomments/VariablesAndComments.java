@@ -1,7 +1,5 @@
 package md.tekwillacademy.variablesandcomments;
 
-import java.util.Arrays;
-
 public class VariablesAndComments {
     public static void main(String[] args) {
         // Declare the primitive data type variables
